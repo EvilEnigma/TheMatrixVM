@@ -7,12 +7,8 @@ An intentionally designed vulnerable machine 'boot2root' challenge for beginners
 You will need Virtual Box or VMWare Player to import the OVA file included in this repository. I have tested this using Windows 10 and VirtualBox version 7. 
 
 1. Set the network adapter to host-only or bridge mode, so that you can launch the virtual machine.
-
-![image](https://github.com/EvilEnigma/TheMatrixVM/assets/23328902/54b0c6af-b7b1-4acd-9cc2-9134ac05c96c)
-   
+  
 2. Monitor the console for messages if all goes well you should spot the VM receiving an IP address.
-   
-![image](https://github.com/EvilEnigma/TheMatrixVM/assets/23328902/1e056531-5bab-47cd-b457-b66263159bbb)
 
 3. Attempt to SSH to the machine ssh test@<ip.seen.from.console>
 
