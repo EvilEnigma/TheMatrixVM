@@ -6,7 +6,7 @@ An intentionally designed vulnerable machine 'boot2root' challenge for beginners
 
 You will need Virtual Box or VMWare Player to import the OVA file included in this repository. I have tested this using Windows 10 and VirtualBox version 7.  
 
-1. Download the Virtual Machine from Release tab - https://github.com/EvilEnigma/TheMatrixVM/releases/download/first/TheMatrix.zip
+1. Download the Virtual Machine from Release tab. Unzip the OVA file and import it within VirtualBox or VMWare player - https://github.com/EvilEnigma/TheMatrixVM/releases/download/first/TheMatrix.zip
 
 2. Set the network adapter to host-only or bridge mode, so that you can launch the virtual machine.
 ![image](https://github.com/EvilEnigma/TheMatrixVM/assets/23328902/71eb7b6f-e10d-4cc9-9ba9-4291be3bc427)
